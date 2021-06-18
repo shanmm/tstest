@@ -1,45 +1,52 @@
-! Title: djloj 
-! 2021-06-15 https://m.toutiao.com
-m.toutiao.com##.section-title
-m.toutiao.com##.recommended-item-single.recommended-item
-m.toutiao.com##div.recommended-item-video.recommended-item > .recommended-item-title
-m.toutiao.com##.recommended-item-ugc-author
-m.toutiao.com##.recommended-item-video-poster
-m.toutiao.com##div.recommended-item-video.recommended-item
-m.toutiao.com##.sug-word-container
-m.toutiao.com##.hotboard-container
-m.toutiao.com##.recommended-item-ugc-title
-m.toutiao.com##a.recommend-item-article.recommend-item
-m.toutiao.com##a.recommend-item-ugc.recommend-item > .author
-m.toutiao.com##.recommend-item-ugc-content-title
-m.toutiao.com##.recommend-item-ugc-content
-m.toutiao.com##.recommended-item-ugc-single-img
-m.toutiao.com##.recommended-item-img-container
-m.toutiao.com##a.recommend-item-ugc.recommend-item
-m.toutiao.com##a.recommend-item-video.recommend-item > .recommend-item-title
-m.toutiao.com##.recommend-item-video-poster
-m.toutiao.com##a.recommend-item-video.recommend-item
-m.toutiao.com##.recommended-item-ugc-triple-img
-m.toutiao.com##.recommended-item-ugc.recommended-item
-m.toutiao.com##.recommended-item-sub-info
-m.toutiao.com##.recommended-item-title
-m.toutiao.com##div.recommended-item 
-! 2021-06-15 https://m.toutiaoimg.cn
-m.toutiaoimg.cn##.section-title
-m.toutiaoimg.cn##a.video-recommend-item 
-! 2021-06-15 https://www.baidu.com
-www.baidu.com##div:nth-of-type(6)
-www.baidu.com##.news-list-wrapper
-www.baidu.com##.bottom-load-before 
-! 2021-06-16 https://m.guancha.cn
-m.guancha.cn##.downloadBtn2
-m.guancha.cn###downloadBtn-position
-m.guancha.cn##.bdshare-button-style0-16.shareMain.bdsharebuttonbox
+！Title：sjjk
+! 2021-06-15 https://m.guancha.cn
 m.guancha.cn##.specialMain
-m.guancha.cn##section.fengwenHot:nth-of-type(7)
 m.guancha.cn##section.fengwenHot
 m.guancha.cn##.latestNews
 m.guancha.cn##.newTitleMain.index-newslist
 m.guancha.cn##.clearfix.pagination-normal.pagination
 m.guancha.cn###toutiao_container
-m.guancha.cn##footer
+m.guancha.cn##.downloadBtn2
+m.guancha.cn###downloadBtn-position
+m.guancha.cn##.bdshare-button-style0-16.shareMain.bdsharebuttonbox
+m.guancha.cn##footer > span
+
+! 2021-06-15 https://so.toutiao.com
+so.toutiao.com##.margin-bottom-l.margin-top-l
+so.toutiao.com###card_21-undefined_111032d0 > .pad-bottom-l.pad-top-l.d-block.position-relative.cs-card
+so.toutiao.com###card_21-undefined_24991d30 > .pad-bottom-l.pad-top-l.d-block.position-relative.cs-card
+
+! 2021-06-15 https://netflav.com
+netflav.com##div.ads_head_banner_container
+
+! 2021-06-16 https://avgle.com
+avgle.com###\35 e68b3a061d6e23568008a77
+avgle.com###exo-native
+
+! 2021-06-17 http://m.jporn.me
+m.jporn.me##.list.list-panel > .van-swipe.ad-70-panel
+
+! 2021-06-17 http://m.jhentai.xyz
+m.jhentai.xyz##.ad
+
+! 2021-06-17 https://mdapp1.pw
+mdapp1.pw##[src="/upload/vod/20210424-1/29a6bd33c7bec394e275e001996b74fc.gif"]
+mdapp1.pw##.closebox2
+||mdapp1.pw/upload/vod/20210*.gif$image
+mdapp1.pw##[href^="https://h6632.com:789"] > .ads
+mdapp1.pw##.leftd
+mdapp1.pw##.rightd
+||mdapp1.pw/upload/vod/20210608-1/73b8427e8042f52d3c38817b8f4b7db4.gif$image
+mdapp1.pw##[href^="https://ywwz11.club/"]
+mdapp1.pw##[href="https://md543.com/"] > .ads
+mdapp1.pw##[href="http://85368.net"] > .ads
+mdapp1.pw##.closebox1
+
+! 2021-06-17 https://u3c3.com
+u3c3.com###em12891
+u3c3.com###em12893
+
+! 2021-06-17 http://thzthzthz.com
+||3336636.com/b6bb1967a7314562a59eb047d4a5ebe1.gif$image
+
+
