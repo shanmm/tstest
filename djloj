@@ -1,0 +1,45 @@
+! Title: djloj 
+! 2021-06-15 https://m.toutiao.com
+m.toutiao.com##.section-title
+m.toutiao.com##.recommended-item-single.recommended-item
+m.toutiao.com##div.recommended-item-video.recommended-item > .recommended-item-title
+m.toutiao.com##.recommended-item-ugc-author
+m.toutiao.com##.recommended-item-video-poster
+m.toutiao.com##div.recommended-item-video.recommended-item
+m.toutiao.com##.sug-word-container
+m.toutiao.com##.hotboard-container
+m.toutiao.com##.recommended-item-ugc-title
+m.toutiao.com##a.recommend-item-article.recommend-item
+m.toutiao.com##a.recommend-item-ugc.recommend-item > .author
+m.toutiao.com##.recommend-item-ugc-content-title
+m.toutiao.com##.recommend-item-ugc-content
+m.toutiao.com##.recommended-item-ugc-single-img
+m.toutiao.com##.recommended-item-img-container
+m.toutiao.com##a.recommend-item-ugc.recommend-item
+m.toutiao.com##a.recommend-item-video.recommend-item > .recommend-item-title
+m.toutiao.com##.recommend-item-video-poster
+m.toutiao.com##a.recommend-item-video.recommend-item
+m.toutiao.com##.recommended-item-ugc-triple-img
+m.toutiao.com##.recommended-item-ugc.recommended-item
+m.toutiao.com##.recommended-item-sub-info
+m.toutiao.com##.recommended-item-title
+m.toutiao.com##div.recommended-item 
+! 2021-06-15 https://m.toutiaoimg.cn
+m.toutiaoimg.cn##.section-title
+m.toutiaoimg.cn##a.video-recommend-item 
+! 2021-06-15 https://www.baidu.com
+www.baidu.com##div:nth-of-type(6)
+www.baidu.com##.news-list-wrapper
+www.baidu.com##.bottom-load-before 
+! 2021-06-16 https://m.guancha.cn
+m.guancha.cn##.downloadBtn2
+m.guancha.cn###downloadBtn-position
+m.guancha.cn##.bdshare-button-style0-16.shareMain.bdsharebuttonbox
+m.guancha.cn##.specialMain
+m.guancha.cn##section.fengwenHot:nth-of-type(7)
+m.guancha.cn##section.fengwenHot
+m.guancha.cn##.latestNews
+m.guancha.cn##.newTitleMain.index-newslist
+m.guancha.cn##.clearfix.pagination-normal.pagination
+m.guancha.cn###toutiao_container
+m.guancha.cn##footer 
