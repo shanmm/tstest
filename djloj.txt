@@ -50,3 +50,19 @@ u3c3.com###em12893
 ||3336636.com/b6bb1967a7314562a59eb047d4a5ebe1.gif$image
 
 
+! 2021-06-18 https://www.cgtn.com
+www.cgtn.com##.hidden-sm.hidden-md.hidden-lg.IphoneHome
+
+! 2021-06-21 http://e.duboku.fun
+e.duboku.fun##.text-center > .adsbygoogle
+
+! 2021-06-23 https://higu.tv
+||higu.tv/upload/2deb000/20210623-1/d2c6b6e061d67749d8853763ee1a34d5.gif$image
+
+! 2021-06-25 https://play.pili.com.tw
+play.pili.com.tw##.lhgdQI.DownloadAppSuggestion__StyleWrapper-zh2fc7-0
+
+@@||mp4er.com^$elemhide
+
+
+
