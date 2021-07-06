@@ -64,5 +64,45 @@ play.pili.com.tw##.lhgdQI.DownloadAppSuggestion__StyleWrapper-zh2fc7-0
 
 @@||mp4er.com^$elemhide
 
+! 2021-06-29 https://www.cat3movie.club
+www.cat3movie.club##.post-footer > div
+www.cat3movie.club##.grid.post-outer > center
+www.cat3movie.club###HTML3 > .widget-content
+
+! 2021-06-30 https://huphimzz.com
+||img.steamaz.co/*t1.gif$image
+huphimzz.com##.pcCatfish
+
+! 2021-06-30 https://www.instagram.com
+www.instagram.com##.HcJZg.L-sTb._4EzTm.eGOV_.rBNOH.Igw0E
+
+! 2021-06-30 https://u3c3.com
+u3c3.com###em12892
+
+! 2021-06-30 https://movie19x.com
+||disqus.com/embed/comments/?base=default&f=https-movie19x-com&t_u=https%3A%2F%2Fmovie19x.com%2Fjav%2F91cm-111%2F&t_d=%E5%BC%A0%E6%99%B4.91CM-111.%E8%80%83%E7%A0%94%E7%9A%84%E5%A7%90%E5%A7%90.%E6%9E%9C%E5%86%BB%E4%BC%A0%E5%AA%92%E7%8B%AC%E5%AE%B6%E5%8E%9F%E5%88%9B%20%E2%80%93%20Movie19X.Com%20%7C%20Japanese%20Porn%20Streaming%20%7C%20JAV%20Stream%20%7C%20JAV%20HD%20Online&t_t=%E5%BC%A0%E6%99%B4.91CM-111.%E8%80%83%E7%A0%94%E7%9A%84%E5%A7%90%E5%A7%90.%E6%9E%9C%E5%86%BB%E4%BC%A0%E5%AA%92%E7%8B%AC%E5%AE%B6%E5%8E%9F%E5%88%9B%20%E2%80%93%20Movie19X.Com%20%7C%20Japanese%20Porn%20Streaming%20%7C%20JAV%20Stream%20%7C%20JAV%20HD%20Online&s_o=default$subdocument
+movie19x.com###comments
+
+! 2021-06-30 https://www5.javmost.com
+www5.javmost.com###nav-page > .top-level
+
+! 2021-06-30 https://hjd2048.com
+hjd2048.com##.col-12 > .mb-3
+hjd2048.com##.pa-sm.card > .card-body
+hjd2048.com##fieldset:nth-of-type(2)
+hjd2048.com##.black.tips
+hjd2048.com##.p-1.card
+hjd2048.com##div#ads_c_tpc.tips
+hjd2048.com##li.top_3.tap.thread.media:nth-of-type(9)
+hjd2048.com##fieldset
+hjd2048.com##div.px-0.card:nth-of-type(4)
+
+! 2021-06-30 https://elsb.hjddown.com
+elsb.hjddown.com##ul.uk-flex-center.uk-subnav-line.uk-subnav
+
+! 2021-07-06 https://m.youtube.com
+m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
+
+
 
 
