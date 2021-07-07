@@ -105,4 +105,31 @@ m.youtube.com##.rich-grid-sticky-header.rich-grid-renderer-header
 
 
 
+! 2021-07-06 https://baike.baidu.com
+baike.baidu.com###J_yx_recommend_container
+baike.baidu.com##.JmGEUNTCJA3
+baike.baidu.com##.JpkrbpTAli0
+baike.baidu.com##.eWCevxgzemF3
+
+! 2021-07-06 https://www.baidu.com
+www.baidu.com##.tab-wrap
+
+! 2021-07-06 https://baike.baidu.com
+baike.baidu.com###BkKMxbN11
+
+! 2021-07-06 http://tieba.baidu.com
+tieba.baidu.com##div.nav-bar-wrapper:nth-of-type(1)
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
+tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper
+tieba.baidu.com##.ertiao-wrap
+tieba.baidu.com##.gray-background.feed-warp
+
+! 2021-07-06 https://www.baidu.com
+www.baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
+www.baidu.com##.ball-img__rlW4c.svga__2z2rT
+www.baidu.com##.ball-close__2GOgl > .c-icon
+www.baidu.com##.baidu-d20__1ymR0.c-invoke-willshow-class.c-line-clamp1
+www.baidu.com##.card-d20__3bRBw.cardContainer2__25srt.cardContainer__3-Ruv.c-gap-inner-bottom._3EOrn.c-container
+www.baidu.com##.c-invoke-show-class__NcU4a.c-line-clamp1
+
 
