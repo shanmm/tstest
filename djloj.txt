@@ -132,4 +132,63 @@ www.baidu.com##.baidu-d20__1ymR0.c-invoke-willshow-class.c-line-clamp1
 www.baidu.com##.card-d20__3bRBw.cardContainer2__25srt.cardContainer__3-Ruv.c-gap-inner-bottom._3EOrn.c-container
 www.baidu.com##.c-invoke-show-class__NcU4a.c-line-clamp1
 
+! 2021-07-06 https://baike.baidu.com
+baike.baidu.com###J_yx_recommend_container
+baike.baidu.com##.JmGEUNTCJA3
+baike.baidu.com##.JpkrbpTAli0
+baike.baidu.com##.eWCevxgzemF3
+
+! 2021-07-06 https://www.baidu.com
+www.baidu.com##.tab-wrap
+
+! 2021-07-06 https://baike.baidu.com
+baike.baidu.com###BkKMxbN11
+
+! 2021-07-06 http://tieba.baidu.com
+tieba.baidu.com##div.nav-bar-wrapper:nth-of-type(1)
+tieba.baidu.com##.nav-bar-wrapper.fixed-nav-bar
+tieba.baidu.com##div.tb-threadlist__item.tb-banner.tb-banner-wrapper
+tieba.baidu.com##.ertiao-wrap
+tieba.baidu.com##.gray-background.feed-warp
+
+! 2021-07-06 https://www.baidu.com
+www.baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
+www.baidu.com##.ball-img__rlW4c.svga__2z2rT
+www.baidu.com##.ball-close__2GOgl > .c-icon
+www.baidu.com##.baidu-d20__1ymR0.c-invoke-willshow-class.c-line-clamp1
+www.baidu.com##.card-d20__3bRBw.cardContainer2__25srt.cardContainer__3-Ruv.c-gap-inner-bottom._3EOrn.c-container
+www.baidu.com##.c-invoke-show-class__NcU4a.c-line-clamp1
+
+! 2021-07-08 https://www.dailymotion.com
+www.dailymotion.com##.DiscoveryVideoSection__visible___2pkr7.DiscoveryVideoSection__discoveryVideoSection___3j5Nh > .row
+
+! 2021-07-08 https://x99av.com
+x99av.com###to-container
+
+! 2021-07-08 https://www.av01.tv
+www.av01.tv##.col-md-8 > div.row
+||r.trwl1.com/s1/*$subdocument
+www.av01.tv##.m-t-15.col-8
+
+! 2021-07-09 https://totheglory.im
+
+totheglory.im###team2
+totheglory.im##center
+
+! 2021-07-09 https://www.speedtest.net
+www.speedtest.net##.mobile-pretest > [href^="https://play.google.com/store/apps/details"]
+
+! 2021-07-10 https://www.dailymotion.com
+www.dailymotion.com##div.large-4.medium-6.xsmall-12.col.LibraryHomeCard__libraryPageLinkCardWrapper___2o8Yq:nth-of-type(4)
+www.dailymotion.com##div.large-4.medium-6.xsmall-12.col.LibraryHomeCard__libraryPageLinkCardWrapper___2o8Yq:nth-of-type(5)
+
+! 2021-07-15 http://txbpyc.com
+txbpyc.com##.plugin.focus
+
+! 2021-07-15 https://et8.org
+et8.org###ad_belownav
+et8.org###ad_belowsearchbox
+
+
+
 
