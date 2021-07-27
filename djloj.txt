@@ -223,7 +223,99 @@ fastzone.org###ip_notice > .bm
 
 ! 2021-07-27 https://m.guancha.cn
 m.guancha.cn##footer
+! 2021-06-19 https://ssdforum.org
+ssdforum.org##.plugin.focus
 
+! 2021-06-19 http://www.jlpzj.net
+www.jlpzj.net##.plugin.focus
+
+! 2021-06-19 https://apkpure.com
+apkpure.com##.right > div > .box
+
+! 2021-07-03 https://baike.so.com
+baike.so.com##.wrap.entry-plus > .boxwrap
+
+! 2021-07-05 https://www.youtube.com
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+
+! 2021-07-06 https://zh.wikipedia.org
+zh.wikipedia.org###asn-dismissable-notice
+
+! 2021-07-06 http://txbpyc.com
+txbpyc.com##.plugin.focus
+
+! 2021-07-07 https://www.dailymotion.com
+www.dailymotion.com##.DiscoveryVideoSection__visible___2pkr7.DiscoveryVideoSection__discoveryVideoSection___3j5Nh > .row
+
+! 2021-07-07 https://sm.ms
+sm.ms##.notify
+sm.ms##.accepr_box
+sm.ms##.download-box
+
+! 2021-07-08 https://www.dailymotion.com
+www.dailymotion.com##.ContinuousQueue__continuousPlayerNextVideos___1mqLr
+
+! 2021-07-08 https://www.baidu.com
+www.baidu.com###content_right > table > tbody
+
+! 2021-07-09 https://hdsky.me
+hdsky.me##div.ad_belownav
+
+! 2021-07-09 https://koolshare.cn
+koolshare.cn##.plugin.focus
+
+! 2021-07-09 https://bbs.23pili.com
+bbs.23pili.com##.GzList
+bbs.23pili.com###xixi
+bbs.23pili.com###shangxia
+
+! 2021-07-09 https://so.toutiao.com
+so.toutiao.com##.s-side-list
+
+! 2021-07-09 https://totheglory.im
+totheglory.im###team2
+
+! 2021-07-09 https://www.aliyundrive.com
+www.aliyundrive.com##.container--CIvrv
+www.aliyundrive.com##.button--1pH7M
+
+! 2021-07-10 https://www.dailymotion.com
+www.dailymotion.com##.Bridge__bridge___1vKvV
+www.dailymotion.com##.WatchingDiscovery__discoveryQueue___3DpvX.row
+www.dailymotion.com##div.large-4.medium-6.xsmall-12.col.LibraryHomeCard__libraryPageLinkCardWrapper___2o8Yq:nth-of-type(5)
+www.dailymotion.com##div.large-4.medium-6.xsmall-12.col.LibraryHomeCard__libraryPageLinkCardWrapper___2o8Yq:nth-of-type(4)
+
+! 2021-07-10 https://totheglory.im
+totheglory.im###team
+
+! 2021-07-12 https://share.dmhy.org
+share.dmhy.org##.fl.table
+
+! 2021-07-14 https://et8.org
+et8.org###ad_belownav
+et8.org###ad_belowsearchbox
+
+! 2021-07-20 http://btbtt14.com
+btbtt14.com###wrapper_left_bg\ llll
+btbtt14.com###wrapper_right_bg
+
+! 2021-07-21 https://fastzone.org
+fastzone.org###ip_notice > .bm
+fastzone.org###notepost > .bm
+
+! 2021-07-21 https://ip.sb
+ip.sb##.rivencloud_ads.col-lg-6
+||ip.sb/assets/images/rivencloud_ads.gif$image
+
+! 2021-07-22 https://zhongzilou.com
+zhongzilou.com##.col-md-3
+
+! 2021-07-26 http://bbs.x-o-x.org
+bbs.x-o-x.org###ip_notice > .bm
+
+! 2021-07-26 https://bbs.ikuai8.com
+bbs.ikuai8.com##.pbn.bml.bm
+bbs.ikuai8.com##.cttp.cl.bm.ttp
 
 
 
