@@ -189,6 +189,42 @@ txbpyc.com##.plugin.focus
 et8.org###ad_belownav
 et8.org###ad_belowsearchbox
 
+! 2021-07-15 https://m.toutiao.com
+m.toutiao.com##.section-title
+m.toutiao.com##.sug-word-container
+m.toutiao.com##.hotboard-container
+m.toutiao.com##a.recommend-item-article.recommend-item
+m.toutiao.com##a.recommend-item-ugc.recommend-item
+m.toutiao.com##a.recommend-item-video.recommend-item
+
+! 2021-07-15 https://www.toutiao.com
+www.toutiao.com##.sdk-top-banner.banner_sdk_undefined.ug_sdk_style.voWSDVBLenYQyKI
+
+! 2021-07-15 https://share.dmhy.org
+share.dmhy.org##.fl.table
+
+! 2021-07-21 https://ip.sb
+ip.sb##.rivencloud_ads.col-lg-6
+||ip.sb/assets/images/rivencloud_ads.gif$image
+ip.sb##.wwads_abp_open.wwads_abp
+
+! 2021-07-21 https://fastzone.org
+fastzone.org###notepost > .bm
+
+! 2021-07-22 https://u3c3.com
+u3c3.com###em12890
+
+! 2021-07-22 https://hentaini.com
+hentaini.com##[href^="https://tm-offers.gamingadult.com/"] > .rounded-0.theme--dark.v-sheet.v-card--flat.v-card.mx-auto > .theme--dark.white--text.v-responsive.v-image
+hentaini.com###beep
+
+! 2021-07-23 https://fastzone.org
+fastzone.org###ip_notice > .bm
+
+! 2021-07-27 https://m.guancha.cn
+m.guancha.cn##footer
+
+
 
 
 
