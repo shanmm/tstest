@@ -203,11 +203,6 @@ www.toutiao.com##.sdk-top-banner.banner_sdk_undefined.ug_sdk_style.voWSDVBLenYQy
 ! 2021-07-15 https://share.dmhy.org
 share.dmhy.org##.fl.table
 
-! 2021-07-21 https://ip.sb
-ip.sb##.rivencloud_ads.col-lg-6
-||ip.sb/assets/images/rivencloud_ads.gif$image
-ip.sb##.wwads_abp_open.wwads_abp
-
 ! 2021-07-21 https://fastzone.org
 fastzone.org###notepost > .bm
 
