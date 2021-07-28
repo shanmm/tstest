@@ -298,11 +298,7 @@ btbtt14.com###wrapper_right_bg
 fastzone.org###ip_notice > .bm
 fastzone.org###notepost > .bm
 
-! 2021-07-21 https://ip.sb
-ip.sb##.rivencloud_ads.col-lg-6
-||ip.sb/assets/images/rivencloud_ads.gif$image
-
-! 2021-07-22 https://zhongzilou.com
+2021-07-22 https://zhongzilou.com
 zhongzilou.com##.col-md-3
 
 ! 2021-07-26 http://bbs.x-o-x.org
