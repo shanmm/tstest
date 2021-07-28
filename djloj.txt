@@ -307,6 +307,10 @@ bbs.x-o-x.org###ip_notice > .bm
 ! 2021-07-26 https://bbs.ikuai8.com
 bbs.ikuai8.com##.pbn.bml.bm
 bbs.ikuai8.com##.cttp.cl.bm.ttp
+! 2021-07-28 https://ip.sb
+ip.sb##.wwads_abp_open.wwads_abp
+ip.sb##.rivencloud_ads.col-lg-6
+
 
 
 
