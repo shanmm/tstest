@@ -311,6 +311,32 @@ bbs.ikuai8.com##.cttp.cl.bm.ttp
 ip.sb##.wwads_abp_open.wwads_abp
 ip.sb##.rivencloud_ads.col-lg-6
 
+! 2021-07-28 https://www.javbus.com
+||adserver.juicyads.com/adshow.php?adzone=706613$subdocument
+www.javbus.com##div.row:nth-of-type(8)
+www.javbus.com##h4:nth-of-type(3)
+www.javbus.com##div.row:nth-of-type(7)
+
+! 2021-07-28 http://www.36dm.club
+www.36dm.club##.top_nav
+www.36dm.club##ul
+||www.36dm.club/images/logo.gif$image
+
+! 2021-07-30 https://fastzone.org
+fastzone.org###sitefocus > .bm
+
+! 2021-07-31 https://www.36dm.club
+www.36dm.club##pojk
+www.36dm.club###img_28586
+||cnzz.yifenghuyu.com/gdsgshehdf/1578.gif$image
+
+! 2021-08-05 https://www.36dm.club
+www.36dm.club###img_43285
+
+! 2021-08-11 https://m.toutiao.com
+m.toutiao.com##div.item-container
+m.toutiao.com##.download-bar__container
+
 
 
 
